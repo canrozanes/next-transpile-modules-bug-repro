@@ -1,0 +1,26 @@
+{
+  "name": "create-next-app-cli",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.9.7",
+    "fetch-mock": "^9.3.1",
+    "jss": "^10.1.1",
+    "next": "^9.3.2",
+    "next-compose-plugins": "^2.2.0",
+    "next-transpile-modules": "^2.3.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-jss": "^10.1.1"
+  }
+}
